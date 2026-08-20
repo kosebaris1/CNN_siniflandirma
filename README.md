@@ -70,15 +70,3 @@ Projenin sonunda elde edilen en iyi test doğruluk oranları:
 <img width="1035" height="369" alt="image" src="https://github.com/user-attachments/assets/b9a4c1f4-012d-4770-9044-ea5b829c79cc" />
 
 
----
-
-## 🛠️ Kurulum ve Kullanım
-
-Proje Google Colab üzerinde geliştirilmiştir. Çalıştırmak için:
-
-1.  Repoyu klonlayın.
-2.  Gerekli kütüphaneleri yükleyin:
-    ```bash
-    pip install tensorflow split-folders matplotlib
-    ```
-3.  `Model3.ipynb` dosyasını çalıştırarak final sonuçları gözlemleyebilirsiniz.
